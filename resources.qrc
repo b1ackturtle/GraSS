@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>./image/GraSS.icns</file>
+  <file>./image/GraSS.ico</file>
+  <file>./image/node.png</file>
+  <file>./image/edge.png</file>
+  <file>./image/delete.png</file>
+  <file>./image/move.png</file>
+  <file>./image/info.png</file>
+</qresource>
+</RCC>
